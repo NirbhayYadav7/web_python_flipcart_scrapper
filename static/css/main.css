@@ -5,6 +5,8 @@ body, html {
 
 .content {
     margin: 0 auto;
+    
+    margin-top: 20%;
     width: 400px;
 }
 
